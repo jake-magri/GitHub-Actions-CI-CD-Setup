@@ -11,7 +11,7 @@ on:
 # Jobs to carry out
 jobs:
   test:
-    # Operating system to run job on
+    # Operating system to run job
     runs-on: ubuntu-latest
 
     # Steps in job
