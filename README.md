@@ -44,7 +44,16 @@ This project demonstrates the implementation of a robust Continuous Integration 
 ## Usage
 
 ### Screenshots
-![Video demo of application.](assets/videos/screenshot)
+
+#### Continuous Deployment to Production Successful
+![Continuous Deployment Successful](https://github.com/user-attachments/assets/0e86937d-0a46-42e4-b86c-e3c587e8808b)
+
+#### Continuous Deployment Jobs Passed
+![Continuous Deployment Tests Passed](https://github.com/user-attachments/assets/0f5e7628-20a6-44ce-a69e-c3678eb416f3)
+
+#### Continuous Integration Component Tests Passed
+![Continuous Integration Component Tests Passed](https://github.com/user-attachments/assets/f4c22687-59a8-4384-b5db-23d702721d51)
+
 
 ### Usage Information
 1. Developers should work on feature branches and submit Pull Requests to the develop branch for review.
