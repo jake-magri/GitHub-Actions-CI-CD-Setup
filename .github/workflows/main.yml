@@ -35,6 +35,8 @@ jobs:
       
       # Start server
       - name: Start the server
+        env:
+          MONGODB_URI: mongodb+srv://dbUser:rootroot@googlebooks.7s2ke.mongodb.net/?retryWrites=true&w=majority&appName=GoogleBooks
         run: |
           npm run start &
           npx wait-on http://localhost:3001 
